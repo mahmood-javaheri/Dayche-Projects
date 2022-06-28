@@ -1,0 +1,9 @@
+for num in range (101):
+     if num % 15 == 0:
+          print('hope-weez')
+     elif num % 3 == 0:
+          print('hope')
+     elif num % 5 == 0:
+          print('weez')
+     else :
+          print(str(num))
